@@ -1,2 +1,2 @@
 # Modern_ui-webpage
-Modern UI webpage build using react 
+Modern UI webpage build using react and tailwindcss
